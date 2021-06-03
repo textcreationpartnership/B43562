@@ -1,0 +1,2358 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions made by the Right Honourable Edward Russel, admiral, in the year 1691. For the better ordering the fleet in sailing by day and night and in fighting.</title>
+            <author>Orford, Edward Russell, Earl of, 1653-1727.</author>
+         </titleStmt>
+         <extent>Approx. 80KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43562</idno><idno type="EEBO-CITATION">489263226</idno>
+  <idno type="VID">208660</idno>
+  <idno type="EEBO-PROQUEST">2240881193</idno>
+  
+            <idno type="OCLC"> 489263226</idno>
+            <idno type="OCLC">ocn 489263226</idno>
+            <idno type="STC">Wing O418B</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43562)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208660)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2956:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instructions made by the Right Honourable Edward Russel, admiral, in the year 1691. For the better ordering the fleet in sailing by day and night and in fighting.</title>
+                  <author>Orford, Edward Russell, Earl of, 1653-1727.</author>
+               </titleStmt>
+               <extent>41 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: lower margins cropped with some loss of text</note>
+                  <note>Reproduction of original in: New York Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Navigation --  Early works to 1800.</term>
+               <term type="topical_term">Seamanship --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:208660:1"/>
+            <pb facs="tcp:208660:2"/>
+            <pb facs="tcp:208660:2"/>
+            <p>INSTRUCTIONS Made by the Right Honourable <hi>EDWARD RUSSEL,</hi> Admiral, In the Year 1691.</p>
+            <p>For the better Ordering the FLEET in Sailing by <hi>Day</hi> and <hi>Night,</hi> and in <hi>Fighting.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:208660:3"/>
+            <div type="instructions">
+               <div type="section">
+                  <head>SIGNALS <hi>To be Observed</hi> In Anchoring, at an Anchor, and in Weigh<g ref="char:EOLhyphen"/>ing Anchor, in the Day-time.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <label>INSTR. I.</label>WHEN the Admiral in the Day-time would have the Fleet prepare to Anchor, he will hoist an Ensign strip'd Red, White, and Blue, on the Ensign-staff, and fire a Gun; then every Flag-ship in the Fleet is to make the same Signal.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <label>II.</label>When the Admiral will have the Fleet to Moore in the Day-time, he will fire one Gun, and hoist his Mizen-top-sail, with the Clew-lines hawled up.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <label>III.</label>When the Admiral will have the Fleet to Cut, or Slip, by Day, he will fire two Guns, and loose both his Top-sails; and then the Leeward-most Ships are to Cut or Slip first, to give room for the Weather-most to come to Sail.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                     <label>IV.</label>When the Admiral would have any particular Ship to Cut, or Slip, in the Day, and Chase to Windward, he will make the Signal for Speaking with the Captain of that Ship that he would have give Chase, hoist a Red Flag in the Mizen-shrowds, and fire a Gun.</p>
+                  <pb n="4" facs="tcp:208660:4"/>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                     <label>V.</label>When the Admiral would have any particular Ship to Cut or Slip in the Day-time, and chase to Leeward, he will make the Signal for Speaking with the Captain of that Ship he would have give Chase, hoist a Blue Flag in the Mizen-shrowds, and fire a Gun.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+                     <label>VI.</label>When the Admiral would have them leave off Chasing, and return to the Fleet, or would have all the Scouts in sight of the Fleet come and speak with him, he'l hoist a White Flag on the Flag-staff at the Fore-top-mast-head, and fire a Gun.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+                     <label>VII.</label>When the Fleet is at Anchor, the two Ships that lead the Fleet are to examine all strange Ships, before they suffer them to come into the Fleet, and not permit any Stranger to come to the Ad<g ref="char:EOLhyphen"/>miral before he is examined; but if the Fleet lie in the open Sea at Anchor, and a strange Ship approach into the Body of it, then the Ship next to him is to examine the Stranger, and make a Re<g ref="char:EOLhyphen"/>port to the Admiral.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="8"/>
+                     <label>VIII.</label>When the Admiral would have the Fleet to Unmoore in the Day, he will loose the Main-top-sail, and fire a Gun.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="9"/>
+                     <label>IX.</label>When the Admiral would have the Fleet to Weigh in the Day, he will loose his Fore-top-sail, and fire a Gun; and then every Ship in the Fleet is to get to Sail as soon as they can.</p>
+               </div>
+               <div type="section">
+                  <pb n="3" facs="tcp:208660:3"/>
+                  <head>SIGNALS <hi>To be Observed</hi> In Anchoring, at an Anchor, and in Weigh<g ref="char:EOLhyphen"/>ing Anchor, in the Night.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <label>INSTR. <hi>I.</hi>
+                     </label> WHEN the Admiral chanceth to Anchor in the Night, he will fire two Guns, a small space of Time one from the other; which are to be answered by every Flag-ship in the Fleet; and every private Ship is to shew two Lights.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <label>II.</label> When the Admiral would have the Fleet to Moore in the Night, he will put a Light on each Top-mast-head, and fire a Gun; which is to be answered by the Flag-ships in the Fleet; and every private Ship is to shew one Light.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <label>III.</label> When the Admiral would have the Fleet to Cut or Slip in the Night, he will hang out four Lights, one at each Main-yard-arm, and one at each Fore-yard-arm, and fire two Guns; which are to be answered by the Flag-ships in the Fleet; and every private Ship is to shew one Light.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                     <label>IV.</label>
+                     <list>
+                        <item n="1">1. The Admiral who commands the Fleet, three Lights on the Poop, and on on the Main-top.</item>
+                        <item n="2">2. The Vice-Admiral, or he who has the Second Post, two on his Poop, and one on his Main-top.</item>
+                        <item n="3">
+                           <pb n="5" facs="tcp:208660:4"/>3. The Rear-Admiral, or he who has the Third Post, one on his Main-top, and one on his Poop.</item>
+                        <item n="4">4. The Vice-Admiral of each Squadron, two on his Poop.</item>
+                        <item n="5">5. The Rear-Admiral of each Squadron, one on his Poop; but when the whole Fleet carry their Lights, then the Rear-Admiral of each Squadron is to carry two Lights, the one hoisted a Yard above the other on the Ensign-staff.</item>
+                        <item n="6">6. In case of foul Weather, and a dark Night, each Ship is to carry a Light.</item>
+                     </list>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                     <label>V.</label> When any Ship shall be discover'd coming into the Fleet in the Night, the Ship that is next to her shall endeavour to speak with her, and bring her to an Anchor, and not suffer her to pass through the Fleet; but in case any one discovers a Fleet in the Night, and it blows so hard, that he cannot come to give the Admiral timely Notice, he is to hang a great number of Lights out, and to con<g ref="char:EOLhyphen"/>tinue firing, Gun after Gun, till the Admiral answers him with one.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+                     <label>VI.</label> When the Admiral would have the Fleet to Unmoore in the Night, and ride short, he will hang out three Lights one over another in the Main-top-mast Shrowds, over the constant Light in the Main-top, and fire two Guns; which are to be answer'd by the Flag-ships in the Fleet; and every private Ship is to hang a Light in the Mizen Shrowds.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+                     <label>VII.</label> When the Admiral would have the Fleet to Weigh in the Night, he will hang a Light in the Main-top-mast Shrowds, and fire a Gun; which is to be answer'd by the Flag-ships in the Fleet; and every private Ship is to hang a Light in his Mizen-shrowds.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="8"/>
+                     <label>VIII.</label> When the Admiral would have the Fleet to Lower their Yards and Top-masts in the Night, he will Hoist one Light upon his Ensign-staff, and fire one Gun; which is to be answer'd by the Flag-ships of the Fleet; and every private Ship to answer with one Light.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="9"/>
+                     <label>IX.</label> When the Admiral would have the Fleet to Hoist their Yards and Top-masts in the Night, he will put abroad two Lights one under the other in the Mizen-top-mast Shrowds, and fire one Gun; which is to be answer'd by the Flag-ships of the Fleet; and every private Ship to have one Light in their Mizen Shrowds.</p>
+               </div>
+            </div>
+            <div type="instructions">
+               <div type="section">
+                  <pb n="6" facs="tcp:208660:5"/>
+                  <head>SIGNALS <hi>To be Observed</hi> In Sailing by DAY.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <label>INSTR. I.</label> WHEN the Admiral would have the Sternmost and Lee<g ref="char:EOLhyphen"/>wardmost Ships to Tack first, he will hoist an Union Flag on the Flag-staff at the Mizen-top-mast-head, and fire a Gun; and every Flag-ship in the Fleet is to answer with the same Signal.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <label>II.</label> When the Admiral would have the Weathermost and Head<g ref="char:EOLhyphen"/>most Ships in the Fleet to Tack first, he will hoist an Union Flag on the Flag-staff at the Fore-top-mast-head, and fire a Gun; and eve<g ref="char:EOLhyphen"/>ry Flag-ship in the Fleet is to answer with the same Signal.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <label>III.</label> When the Admiral would have the Fleet (in bad Weather that they cannot stay) Weare, and bring to the other Tack, he will hoist a Pendant on the Ensign-staff, and fire a Gun; and then the Lee<g ref="char:EOLhyphen"/>wardmost and Sternmost Ships are to Weare first, and bring to the other Tack, and lie by, or go with an easie Sail, which they see most convenient, till the Admiral comes a-head; and every Flag-ship in the Fleet is to answer with the same Signal.</p>
+                  <pb n="8" facs="tcp:208660:6"/>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                     <label>IV.</label> When the Fleet is lying by, or sailing by the Wind, and the Ad<g ref="char:EOLhyphen"/>miral will have them bear up, and sail before the Wind, he will hoist his Ensign, and fire a Gun; (which is to be answer'd by the Flag-ships of the Fleet,) and then the Leewardmost Ships are first to bear up, to give room for the Weathermost to Weare, and sail before the Wind with an easie sail, till the Admiral come a-head; but if it should happen, (when the Admiral has occasion to Weare, and sail before the Wind,) that the Jack and Ensign be abroad, he will hawl down the Jack before he fires the Gun to Weare, and keep it down till all the Fleet is before the Wind.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                     <label>V.</label> When the Fleet is sailing before the Wind, and the Admiral would have them bring too, with the Starboard Tack on board, he will hoist a Red Flag on the Flag-staff at the Mizen-top-mast-head, and fire a Gun: If to bring too with the Larboard Tack, a Blue Flag on the same place, and fire a Gun; and every Flag-ship is to answer with the same Signal.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+                     <label>VI.</label> When any of the Fleet lose Company, and meet again in the Day, those to Windward shall <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> and those to Leeward shall answer <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+                     <label>VII.</label> When the Admiral would have any Ship in the Fleet to Chase to Windward, he will make the Signal for speaking with the Captain, and hoist a Red Flag in the Mizen-shrowds: If to Chase to Leeward, a Blue Flag: And when he would have them give over Chasing, he will hoist a White Flag on the Flag-staff at the Fore-top-mast-head, and fire a Gun.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="8"/>
+                     <label>VIII.</label> When any one (in the Day-time) happeneth to see a Ship, or Ships, more than His Majesty's Fleet, he is to put abroad his En<g ref="char:EOLhyphen"/>sign, and there keep it till the Admiral's is out, and then to strike it as often as he seeth Ships, and to stand with them, that so the Admiral may know which way they are, and how many; but in case they be at such a distance that the Ensign cannot be well discover'd, then he is to lay his Head towards the Ships, or Fleet, which he so de<g ref="char:EOLhyphen"/>scries, and to brawl up his low Sails, and continue hoisting and lower<g ref="char:EOLhyphen"/>ing his Top-sails, and making a Weft with his Top-gallant-sails</p>
+                  <pb n="10" facs="tcp:208660:7"/>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="9"/>
+                     <label>IX.</label> In case of springing a Leak by Day, or any other Disaster that disables your Ship from keeping Company, you are to hawl up your Courses, and fire two Guns.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="10"/>
+                     <label>X.</label> Whosoever desires to speak with the Admiral must spread an <hi>English</hi> Ensign from the Head of his Main or Fore-top-mast downward on the Shrouds, lowering his Main or Fore-top-sail, and firing Guns, till he is observ'd by the Admiral, who will an<g ref="char:EOLhyphen"/>swer by firing one Gun.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="11"/>
+                     <label>XI.</label> When the Admiral would have the Vice-Admiral, or he that Commands in the Second Post of the Fleet, to send out Ships to Chase, he will hoist a Flag strip'd Red and White on the Flag-staff at the Fore-top-mast-head, and fire a Gun.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="12"/>
+                     <label>XII.</label> When the Admiral would have the Rear-Admiral, or he that Commands in the Third Post in the Fleet, to send out Ships to Chase, he will hoist a Flag strip'd Red and White on the Flag-staff at the Mizen-top-mast-head, and fire a Gun.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="13"/>
+                     <label>XIII.</label> When any discovers Land in the Day, he is to hoist his Jack and Ensign, and keep it abroad till the Admiral answer him by hoisting his; upon sight of which, he is to Hawl down his Ensign.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="14"/>
+                     <label>XIV.</label> If any discovers Danger in the Day-time, he is to Tack, or bear up from it, and put a Jack abroad from the Main-top-mast Cross-Trees downward on the Back-stay, and fire two Guns; but if that Ship should strike, and stick fast on that Danger, he is to make the same Signal with his Jack, and continue firing of Guns, until he sees all the Ships in the Fleet have observed him, by endeavouring to avoid the Danger.</p>
+               </div>
+               <div type="section">
+                  <pb n="7" facs="tcp:208660:5"/>
+                  <head>SIGNALS <hi>To be Observed</hi> In Sailing by NIGHT.</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                     <label>INSTR. <hi>I.</hi>
+                     </label>WHEN the Admiral would have the Fleet to Tack in the Night, he will hoist two Lights on the Ensign-staff, one over the other, above the constant Light in the Poop, and fire a Gun; which is to be answer'd by the Flag-ships of the Fleet; and every Ship in the Fleet is to hang out a Light extraordinary, which is not to be taken in, till the Admiral takes his in: After the Sig<g ref="char:EOLhyphen"/>nal is made, the Leewardmost and Sternmost Ships are to Tack as fast as they can; and the Sternmost Flag-ship, after he is about upon the other Tack, is to lead the Fleet, whom they are to fol<g ref="char:EOLhyphen"/>low, to avoid running through one another in the Night.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                     <label>II.</label>When the Admiral would have the Fleet (in blowing Weather) to lie a-trey, short, or a-hull, or the Head-sails brac'd to the Mast, in the Night, he will shew four Lights of equal height, and fire two Guns; which are to be answer'd by the Flag-ships in the Fleet; and every Ship in the Fleet is to shew four Lights.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     <label>III.</label>When the Admiral would have the Fleet to make Sail in the Night, after lying a-trey, short, a-hull, or the Head-sails to the Mast, he
+<pb n="9" facs="tcp:208660:6"/> will put out three Lights one over the other in the Main-shrowds, and fire two Guns; which are to be answer'd by the Flag-ships in the Fleet; and every Ship in the Fleet is to hang out three Lights, and not to take them in till the Admiral takes in his.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                     <label>IV.</label>When any Ship has occasion to lye short, or by, after the Fleet has made sail, he is to fire one Gun, and shew three Lights in the Mizen-shrowds.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                     <label>V.</label>If any Ship lose Company, and meet again in the Night, he who hails first shall ask, <hi>What Ship</hi>'s <hi>that?</hi> And he who is hail'd shall answer, <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> The other who hail'd first shall reply, <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> Then he who was first hail'd shall an<g ref="char:EOLhyphen"/>swer <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+                     <label>VI.</label>When any discovers a Fleet in the Night, he shall fire Guns, make false Fires, put a Light on the Main-top, three on the Poop, and steer after them, and continue firing Guns; But if the Admi<g ref="char:EOLhyphen"/>ral should steer another Course, and fire one, two, or three Guns, (which is to call him off,) then he his to follow the Admiral.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+                     <label>VII.</label>In case of Springing a Leak by Night, or any other disaster that disables your Ship from keeping Company, you are to hang out two Lights of equal height, and fire Guns till you are reliev'd by some Ship in the Fleet.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="8"/>
+                     <label>VIII.</label>If the Admiral alter his Course in the Night, he will fire one Gun, (without alteration of Lights;) which is to be answer'd by the Flag-ships in the Fleet.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="9"/>
+                     <label>IX.</label>When any one discovers Land, or Danger, in the Night, he who first discovers it, is to shew as many Lights as he can, and fire one Gun, and Tack, or bear away from it.</p>
+                  <pb n="11" facs="tcp:208660:7"/>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="10"/>
+                     <label>X.</label> When the Fleet is sailing Large, or before the Wind, in the Night, and the Admiral would have them bring too, and lie by, with their Starboard Tacks on Board, he will put abroad four Lights in the Fore-shrowds, and fire six Guns; but if with the Larboard Tacks, eight Guns; which is to be answer'd by the Flag-ships of the Fleet; and every private Ship is to answer with four Lights, (it being the same that is in the fourth Article for bringing too in a Fog,) and the Windermost Ships are to bring too first.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="11"/>
+                     <label>XI.</label>When the Admiral is upon a Wind in the Night, and would have the Fleet Weare, and bring too on the other Tack, he will hoist up one Light at the Mizen-Peek, and fire three Guns; which is to be answer'd by the Flag-ships of the Fleet; and every private Ship to answer with one Light at the Mizen-Peek: The Stern-most and Leeward-most Ships are to bear up as soon as the Sig<g ref="char:EOLhyphen"/>nal is made.</p>
+               </div>
+            </div>
+            <div type="instructions">
+               <pb n="12" facs="tcp:208660:8"/>
+               <head>INSTRUCTIONS <hi>To be Observed</hi> By Younger CAPTAINS To the ELDER.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <label>INSTR. I.</label>THE Flag-ships are to pay a due Respect to the Senior Flags, and not to go to Windward of him or them, but upon necessary Occasions; and every private Ship in the Fleet is to ob<g ref="char:EOLhyphen"/>serve the same to the Flag-ships, or their Commander in Chief.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <label>II.</label>When two Ships of the same Rank are sailing on the same Tack, or on contrary Tacks, and there is a Necessity for one of them to bear up to the other, he that can with the most Convenience bear up, is to do it; but if it be equally convenient to both of them, then the Younger Captain shall bear up for the Elder.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <label>III.</label>When two Ships of different Rank are sailing on the same Tack, or on co<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ary Tacks, and there's a Necessity for one of them to bear up for the other, the Ship that can with the most Convenience bear up, is to do it; but if it be equally convenient to both of them, the smaller Rank is to bear up for the greater, altho the Ship of the small Rank be Commanded by the Elder Captain.</p>
+            </div>
+            <div type="instructions">
+               <pb n="13" facs="tcp:208660:8"/>
+               <head>INSTRUCTIONS FOR Sailing in a FOG.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <label>INSTR. <hi>I.</hi>
+                  </label>IF it grow thick and foggy Weather, the Admiral will continue sailing with the same Sail set that he had before it grew foggy, and will fire every Hour a Gun; which is to be answered by the Flag-ships in the Fleet; and the private Ships are to answer by firing of Musquets, beating of Drums, or ringing of Bells.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <label>II.</label>If the Admiral is necessitated to make more or less Sail than he had when the Fog came up, he will fire every Half Hour a Gun, that the Fleet may thereby discern, whether they come up with the Admiral, or fall a-stern of him; which is to be answered by eve<g ref="char:EOLhyphen"/>ry Flag-ship in the Fleet; and the private Ships are to answer by firing of Musquets, beating of Drums, or ringing their Bells.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <label>III.</label>If the Admiral would have the Fleet to Tack in a Fog, he will fire Four Guns; which are to be answered by every Flag-ship in the Fleet; then the Leewardmost and Sternmost Ships are to Tack first, and after they are about to go with the same Sail they Tack'd with, and not to lie by, expecting the Admiral to come A-head; which is to avoid the Danger of running through one another in thick Weather.</p>
+               <pb n="14" facs="tcp:208660:9"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                  <label>IV.</label> If the Admiral think fit to bring too, and lie by with his Head-sails to the Mast in a Fog, with the Starboard Tack aboard, he will fire six Guns; if with the Larboard Tack aboard, eight Guns; <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich are to be answered by every Flag-ship in the Fleet.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                  <label>V.</label>When the Admiral makes sail in a Fog, after lying with his Head-sails to the Mast, he will fire two Guns; which are to be answered by every Flag-ship in the Fleet; and then the Head-most and Weathermost Ships are to make Sail first.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+                  <label>VI.</label>When the Admiral would have the Fleet to Anchor in a Fog, he will fire two Guns; which are to be answered by every Flag-ship in the Fleet; and lest there should be Ships so far a-stern, that they could not hear the Flag-ships Guns when they answered, the Admiral will fire two Guns more after he has been half an hour at Anchor; which are to be answered by every Flag-ship in the Fleet.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+                  <label>VII.</label>When the Admiral would have the Fleet to weigh in a Fog, he will fire ten Guns; which are to be answered by every Flag-ship in the Fleet.</p>
+               <p>You are to observe, That the Guns which you fire for Signals in a Fog, be all fired on the same side, that they may make no Alteration in the Sound.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/>
+                  <label>VIII.</label>If any one discover Danger in a Fog, which he can avoid by Tacking and Standing from it, he is to make the Signal for Tack<g ref="char:EOLhyphen"/>ing in a Fog; but if he should chance to strike and stick fast, he is to fire Gun after Gun, till he believes His Majesty's Fleet have avoided the Danger, either by Tacking, Bearing up, or An<g ref="char:EOLhyphen"/>choring.</p>
+            </div>
+            <div type="instructions">
+               <pb n="15" facs="tcp:208660:9"/>
+               <head>SIGNALS <hi>FOR CALLING</hi> The Flag-Officers, and other Officers, on Board the ADMIRAL.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <label>INSTR. I.</label>AS soon as the Admiral shall put abroad an Union Flag in the Mizen-shrowds, and fire a Gun, all the Captains in the Fleet are to come aboard the Admiral's Ship. If the same Signal, and a Weft with the Ensign, a Lieutenant of each Ship is to come on Board.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <label>II.</label>If an Ensign be put abroad in the same place, all the Masters of the Ships of War belonging to the Fleet are to come aboard the Admiral.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <label>III.</label>When the Admiral hoisteth a Standard on the Flag-staff at the Mizen-top-mast-head, and fires a Gun, all the Flag-Officers in the Fleet are to come aboard him.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                  <label>IV.</label>When the Admiral hoisteth a Red Flag in the Mizen-shrowds, all the Captains of his own Squadron are to come aboard him. If the same Signal, and a Weft with the Ensign, a Lieutenant of each of the Ships in the said Squadron is to come on Board.</p>
+               <pb n="16" facs="tcp:208660:10"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                  <label>V.</label> When a White Flag is hoisted in the Mizen-shrowds, the Vice-Admiral, or he that Commands in the Second Post, and all the Captains of his Squadron are to come aboard the Admiral.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+                  <label>VI.</label>When a blue Flag is hoisted in the Mizen-shrowds, and a Gun fired, then the Rear Admiral, or he that Commands in the Third Post of the Fleet, and all the Captains of his Squadron, are to come aboard the Admiral. If the same Signal, and a Weft with the Ensign, a Lieutenant of each of the Ships in the said Squadron is to come on Board.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+                  <label>VII.</label>When a Standard is hoisted on the Ensign-staff, and a Gun fired, the Vice and Rear-Admirals of the Fleet, or those that Command in the Second or Third Posts of the Fleet, are to come aboard the Admiral.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/>
+                  <label>VIII.</label>When the Admiral would speak with the Captains of his own Division, he will hoist a Pendant on the Mizen-peek, and fire a Gun. If with a Lieutenant of each Ship in the same Division, the same Signal, and a Weft with his Ensign.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/>
+                  <label>IX.</label>When the Admiral would speak with the Lieutenant of any par<g ref="char:EOLhyphen"/>ticular Ship, he will make the Signal for speaking with the Captain of that Ship, and make a Weft with his Ensign.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/>
+                  <label>X.</label>When the Admiral would have all the Tenders in the Fleet come under his Stern, and speak with him, he will hoist a Flag striped Yellow and White, at the Mizen-peek, and fire a Gun.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/>
+                  <label>XI.</label>When the Admiral would speak with any particular Ship's Ten<g ref="char:EOLhyphen"/>der, he will make the Signal for speaking with the Captain of the Ship she attends on, and a Weft with his Jack.</p>
+               <pb n="17" facs="tcp:208660:10"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="12"/>
+                  <label>XII.</label> When the Admiral would have all the Pinnaces and Barges in the Fleet to come on board him Mann'd and Arm'd, he will hoist a Pendant on the Flag-staff at the Fore-top-mast-head, and fire a Gun; and if he would have them Chase, he will make the same Signal and send his Boat a Chasing.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="13"/>
+                  <label>XIII.</label>When the Admiral would have all the Long-boats in the Fleet come on board him Mann'd and Arm'd, he will hoist a Pendant on the Flag-staff at the Mizen-top-mast-head, and fire a Gun; and if he would have them Chase, he will make the same Signal and send his Boat a Chasing.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="14"/>
+                  <label>XIV.</label>When the Admiral would have all the Boats in the Fleet come on Board him Mann'd and Arm'd, he will hoist a Pendant on the Flag-staff at the Fore-top-mast-head, and another on the Mizen-top-mast-head, and fire one Gun; and if he would have them Chase, he will make the same Signal, and send his Boats a Chasing.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="15"/>
+                  <label>XV.</label>Every Captain in the Fleet that has a Tender, is required to give the Master of her his General and Particular Signals from the Admiral.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="16"/>
+                  <label>XVI.</label>Before the Admiral sends any Hospital Ship out of the Fleet with Sick Men, That Ship shall make a Signal, by spreading an Ensign on the Main-top-mast-back-stay from the Head of the Mast downwards.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="17"/>
+                  <label>XVII.</label>When the Admiral would speak with the Victualler, or his Agent, he will put an <hi>English</hi> Ensign in the Mizen-top-mast-shrowds.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="18"/>
+                  <label>XVIII.</label>When the Admiral would speak with the Officer that has Charge of the Gunner's Stores, he will spread and Ensign at his Main-top-sail-yard-arm.</p>
+            </div>
+            <div type="table_of_contents">
+               <pb n="18" facs="tcp:208660:11"/>
+               <head>THE CONTENTS OF THE Sailing Instructions.</head>
+               <div type="section">
+                  <head>Signals for Anchoring, at an Anchor, and Weighing Anchor, in the Day-time.</head>
+                  <list>
+                     <item>FOR the Fleet to
+<list>
+                           <item>Anchor Instr. <hi>1</hi>
+                           </item>
+                           <item>Moore Instr. <hi>2</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>To Cut or Slip Instr. <hi>3</hi>
+                     </item>
+                     <item>For any particular Ship's Cutting or Slipping, and Chasing to Windward Instr. <hi>4</hi>
+                     </item>
+                     <item>
+                        <hi>Ditto,</hi> To Leeward Instr. <hi>5</hi>
+                     </item>
+                     <item>For giving over Chase, and calling in the Scouts to the Fleet Instr. <hi>6</hi>
+                     </item>
+                     <item>Directions for Examining strange Ships coming into the Fleet Instr. <hi>7</hi>
+                     </item>
+                     <item>Signal to Ʋnmoore Instr. <hi>8</hi>
+                     </item>
+                     <item>Signal to Weigh Instr. <hi>9</hi>
+                     </item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Signals for Anchoring, at an Anchor, and Weighing Anchor, in the Night.</head>
+                  <list>
+                     <item>SIgnal to
+<list>
+                           <item>Anchor Instr. <hi>1</hi>
+                           </item>
+                           <item>Moore Instr. <hi>2</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>For Cutting or Slipping Instr. <hi>3</hi>
+                     </item>
+                     <item>To know all the Flag Ships by their Lights Instr. <hi>4</hi>
+                     </item>
+                     <item>For Discovering a Fleet coming into ours when at Anchor Instr. <hi>5</hi>
+                     </item>
+                     <item>The Signal to Ʋnmoore Instr. <hi>6</hi>
+                     </item>
+                     <item>The Signal to Weigh Instr. <hi>7</hi>
+                     </item>
+                     <item>To Lower Yards and Top-masts Instr. <hi>8</hi>
+                     </item>
+                     <item>T<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> H<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>is<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Yard<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> and T<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>p<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>masts Instr. <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </item>
+                  </list>
+               </div>
+               <div type="section">
+                  <pb n="19" facs="tcp:208660:11"/>
+                  <head>Signals for Sailing by DAY.</head>
+                  <list>
+                     <item>FOR the Sternmost and Leewardmost Ships to Tack first Instr. <hi>1</hi>
+                     </item>
+                     <item>For the Weathermost and Headmost Ships to Tack first Instr. <hi>2</hi>
+                     </item>
+                     <item>For Wearing and bringing to the other Tack in bad Weather Instr. <hi>3</hi>
+                     </item>
+                     <item>To bear up, and Sail before the Wind Instr. <hi>4</hi>
+                     </item>
+                     <item>Signal for the Fleet to bring too, to
+<list>
+                           <item>Starboard Instr. <hi>5</hi>
+                           </item>
+                           <item>Larboard Instr. <hi>5</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Ʋpon losing Company, and meeting again Instr. <hi>6</hi>
+                     </item>
+                     <item>For Chasing to Windward or Leeward Instr. <hi>7</hi>
+                     </item>
+                     <item>Ʋpon Discovering a Fleet Instr. <hi>8</hi>
+                     </item>
+                     <item>Ʋpon Springing a Leak Instr. <hi>9</hi>
+                     </item>
+                     <item>To speak with the Admiral Instr. <hi>10</hi>
+                     </item>
+                     <item>For the Vice-Admiral sending out Ships to Chase Instr. <hi>11</hi>
+                     </item>
+                     <item>For the Rear-Admiral to Chase Instr. <hi>12</hi>
+                     </item>
+                     <item>Ʋpon Discovering
+<list>
+                           <item>Land Instr. <hi>13</hi>
+                           </item>
+                           <item>Danger Instr. <hi>14</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Signals when Sailing by NIGHT.</head>
+                  <list>
+                     <item>SIgnal for Tacking Instr. <hi>1</hi>
+                     </item>
+                     <item>To Lie Short or By in Bad Weather Instr. <hi>2</hi>
+                     </item>
+                     <item>To make Sail after Lying By Instr. <hi>3</hi>
+                     </item>
+                     <item>When any Ship is necessitated to Lie By, though the Fleet make Sail Instr. <hi>4</hi>
+                     </item>
+                     <item>Ʋpon losing Company, and meeting again Instr. <hi>5</hi>
+                     </item>
+                     <item>Ʋpon Discovering a Fleet Instr. <hi>6</hi>
+                     </item>
+                     <item>Ʋpon Springing a Leak Instr. <hi>7</hi>
+                     </item>
+                     <item>For Altering the Course Instr. <hi>8</hi>
+                     </item>
+                     <item>Ʋpon Discovering Land or Danger Instr. <hi>9</hi>
+                     </item>
+                     <item>For bring to, and lying by, wiith Starboard Tacks on Board, when Sailing large, or before the Wind; or to Lie by, with Larboard Tacks on Board Instr. <hi>10</hi>
+                     </item>
+                     <item>For Wearing, and bringing to on the other Tack when Sailing upon a Wind Instr. <hi>11</hi>
+                     </item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Signals when Sailing in a FOG.</head>
+                  <list>
+                     <item>TO continue Sailing with the same Sail when it grows thick and Foggy Weather Instr. <hi>1</hi>
+                     </item>
+                     <item>For making more or less Sail than was when the Fog came up Instr. <hi>2</hi>
+                     </item>
+                     <item>For Tacking Instr. <hi>3</hi>
+                     </item>
+                     <item>To bring too, and lie by with the
+<list>
+                           <item>Starboard</item>
+                           <item>Larboard</item>
+                        </list> Tack on Board Instr. <hi>4</hi>
+                     </item>
+                     <item>For making Sail in a Fog, after lying By with the Head-sails to the Mast Instr. <hi>5</hi>
+                     </item>
+                     <item>For Anchoring Instr. <hi>6</hi>
+                     </item>
+                     <item>For Weighing Instr. <hi>7</hi>
+                     </item>
+                     <item>
+                        <gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Instr. <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </item>
+                  </list>
+               </div>
+               <div type="section">
+                  <pb n="20" facs="tcp:208660:12"/>
+                  <head>Signals for Calling the Flag and other Officers on Board the Admiral.</head>
+                  <list>
+                     <item>THE Captains, or Lieutenants Instr. <hi>1</hi>
+                     </item>
+                     <item>All the Masters of the Ships of War Instr. <hi>2</hi>
+                     </item>
+                     <item>The Flag-Officers Instr. <hi>3</hi>
+                     </item>
+                     <item>The Captains of the Admiral's Squadron, or Lieutenants Instr. <hi>4</hi>
+                     </item>
+                     <item>The Vice-Admiral, and all the Captains of his Squadron Instr. <hi>5</hi>
+                     </item>
+                     <item>The Rear-Admiral, and all the Captains of his Squadron, or Lieutenants Instr. <hi>6</hi>
+                     </item>
+                     <item>The Vice and Rear-Admirals, or those that Command in the Second and Third Posts Instr. <hi>7</hi>
+                     </item>
+                     <item>The Captains of the Admiral's Division Instr. <hi>8</hi>
+                     </item>
+                     <item>A Lieutenant of each Ship of the Admiral's Division Instr. <hi>8</hi>
+                     </item>
+                     <item>A Lieutenant of any particular Ship Instr. <hi>9</hi>
+                     </item>
+                     <item>For all the Tenders in the Fleet to come under the Admiral's Stern Instr. <hi>10</hi>
+                     </item>
+                     <item>For speaking with any particular Ship's Tender Instr. <hi>11</hi>
+                     </item>
+                     <item>
+                        <list>
+                           <item>
+                              <list>
+                                 <item>For all the Pinnaces and Barges</item>
+                                 <item>For all the Long-Boats</item>
+                                 <item>For all the Boats in the Fleet</item>
+                              </list>
+                           </item>
+                           <item>to come on Board the Instr. <hi>12</hi>
+                           </item>
+                           <item>
+                              <list>
+                                 <item>Admiral Mann'd Instr. <hi>13</hi>
+                                 </item>
+                                 <item>and Arm'd Instr. <hi>14</hi>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Every Tender is to know from the Captain of the Ship he attends on, What Signals the Admiral will make when he will speak with that Tender Instr. <hi>15</hi>
+                     </item>
+                     <item>The Signal to be made by an Hospital Ship before she goes out of the Fleet Instr. <hi>16</hi>
+                     </item>
+                     <item>For speaking with the
+<list>
+                           <item>Victualler, or his Agent Instr. <hi>17</hi>
+                           </item>
+                           <item>Officer that has Charge of the Gunner's Stores Instr. <hi>18</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </div>
+            </div>
+            <div type="index">
+               <pb n="21" facs="tcp:208660:12"/>
+               <head>AN INDEX OF THE SIGNALS Contained in the Instructions for Sailing.</head>
+               <div type="section">
+                  <head>SIGNALS with One Gun, From the ADMIRAL.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell role="label">Instr.</cell>
+                           <cell role="label">Pag.</cell>
+                        </row>
+                        <row>
+                           <cell rows="37">One Gun.</cell>
+                           <cell>AND hoists an Ensign striped Red, White and Blue on the Ensign-staff</cell>
+                           <cell>
+                              <hi>1</hi>
+                           </cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hoists his Mizen-top-sails, with the Clew-lines hawled up</cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hoists a Red Flag in the Mizen-shrowds, and makes a Signal for a particular Captain</cell>
+                           <cell>
+                              <hi>4</hi>
+                           </cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>A Blue Flag in the same place, and a Signal for a particular Captain.</cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                           <cell>
+                              <hi>4</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>A White Flag hoisted at the Fore-top-mast-head</cell>
+                           <cell>
+                              <hi>6</hi>
+                           </cell>
+                           <cell>
+                              <hi>4</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And looses his Main-top-sail, or puts one Light on his Ensign-staff.</cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                           <cell>
+                              <hi>4</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And looses his Fore-top-sail</cell>
+                           <cell>
+                              <hi>9</hi>
+                           </cell>
+                           <cell>
+                              <hi>4</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And puts a Light on each Top-mast-head</cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                           <cell>
+                              <hi>3</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hangs a Light in the Main-top-mast-shrowds</cell>
+                           <cell>
+                              <hi>7</hi>
+                           </cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hoists an Ʋnion-flag on the Flag-staff at the Mizen-top-mast-head.</cell>
+                           <cell>
+                              <hi>1</hi>
+                           </cell>
+                           <cell>
+                              <hi>6</hi>
+                           </cell>
+                        </row>
+                        <pb n="22" facs="tcp:208660:13"/>
+                        <row>
+                           <cell>And hoists an Ʋnion Flag at the Fore-top-mast-head</cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                           <cell>
+                              <hi>6</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hoists a Pendant on the Ensign-staff</cell>
+                           <cell>
+                              <hi>3</hi>
+                           </cell>
+                           <cell>
+                              <hi>6</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hoists his Ensign</cell>
+                           <cell>
+                              <hi>4</hi>
+                           </cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hawls down his Jack</cell>
+                           <cell>
+                              <hi>4</hi>
+                           </cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hoists a Red Flag on the Flag-staff at the Mizen-top-mast-head</cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hoists a Blue Flag in the same Place</cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hoists a Red Flag in the Mizen-shrowds</cell>
+                           <cell>
+                              <hi>7</hi>
+                           </cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And a Blue Flag in the same Place</cell>
+                           <cell>
+                              <hi>7</hi>
+                           </cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hoists a White Flag on the Flag-staff at the Fore-top-mast-head</cell>
+                           <cell>
+                              <hi>7</hi>
+                           </cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hoists a Flag striped Red and White in the same place</cell>
+                           <cell>
+                              <hi>11</hi>
+                           </cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And the like Flag on the Mizen-top-mast-head</cell>
+                           <cell>
+                              <hi>12</hi>
+                           </cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hoists two Lights on the Ensign-staff, one above the other, above the constant Light in the Poop</cell>
+                           <cell>
+                              <hi>1</hi>
+                           </cell>
+                           <cell>
+                              <hi>7</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Without Alteration of Lights</cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                           <cell>
+                              <hi>9</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Every Hour</cell>
+                           <cell>
+                              <hi>1</hi>
+                           </cell>
+                           <cell>
+                              <hi>13</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Every Half Hour</cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                           <cell>
+                              <hi>13</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And an Ʋnion Flag on the Mizen-shrowds</cell>
+                           <cell>
+                              <hi>1</hi>
+                           </cell>
+                           <cell>
+                              <hi>15</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And an Ensign in the same place</cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                           <cell>
+                              <hi>15</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hoists a Standard on the Mizen-top-mast-head</cell>
+                           <cell>
+                              <hi>3</hi>
+                           </cell>
+                           <cell>
+                              <hi>15</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And a Blue Flag in the Mizen-shrowds</cell>
+                           <cell>
+                              <hi>6</hi>
+                           </cell>
+                           <cell>
+                              <hi>16</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And a Standard hoisted on the Ensign-staff</cell>
+                           <cell>
+                              <hi>7</hi>
+                           </cell>
+                           <cell>
+                              <hi>16</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hoists a Pendant on his Mizen-peek</cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                           <cell>
+                              <hi>16</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>The same Signal, and a Weft with his Ensign</cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                           <cell>
+                              <hi>16</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hoists a Flag strip'd Yellow &amp; White at the Miz-peek</cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                           <cell>
+                              <hi>16</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hoists a Pendant on the Flag-staff at the Fore-top-mast-head</cell>
+                           <cell>
+                              <hi>12</hi>
+                           </cell>
+                           <cell>
+                              <hi>17</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And a Pendant on the Mizen-top-mast-head</cell>
+                           <cell>
+                              <hi>13</hi>
+                           </cell>
+                           <cell>
+                              <hi>17</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hoists a Pendant on the Flag-staff at the Fore-top-mast-head, and another on the Flag-staff at the Mizen-top-mast-head</cell>
+                           <cell>
+                              <hi>14</hi>
+                           </cell>
+                           <cell>
+                              <hi>17</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From other Ships.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell role="label">Instr.</cell>
+                           <cell role="label">Pag.</cell>
+                        </row>
+                        <row>
+                           <cell>ONe Gun, and shews Three Lights in the Mizen-shrowds</cell>
+                           <cell>
+                              <hi>4</hi>
+                           </cell>
+                           <cell>
+                              <hi>9</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>One Gun, and shews as many Lights as he can</cell>
+                           <cell>
+                              <hi>9</hi>
+                           </cell>
+                           <cell>
+                              <hi>9</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>SIGNALS with Two Guns, From the ADMIRAL.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell role="label">Instr.</cell>
+                           <cell role="label">Pag.</cell>
+                        </row>
+                        <row>
+                           <cell rows="5">Two Guns.</cell>
+                           <cell>AND looses both his Top-sails</cell>
+                           <cell>
+                              <hi>3</hi>
+                           </cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>A small space of time one from the other</cell>
+                           <cell>
+                              <hi>1</hi>
+                           </cell>
+                           <cell>
+                              <hi>3</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hands out Four Lights, one at each Main-yard-arm, and one at each Fore-yard-arm</cell>
+                           <cell>
+                              <hi>3</hi>
+                           </cell>
+                           <cell>
+                              <hi>3</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And hangs out Three Lights, one over another, in the Main-top-mast-shrowds, over the constant Light in the Main-top</cell>
+                           <cell>
+                              <hi>6</hi>
+                           </cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And shews Four Lights of equal height</cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                           <cell>
+                              <hi>7</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="23" facs="tcp:208660:13"/>
+                  <head>From other Ships.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell role="label">Instr.</cell>
+                           <cell role="label">Pag.</cell>
+                        </row>
+                        <row>
+                           <cell>TWO Guns, and hawls up his Courses</cell>
+                           <cell>
+                              <hi>9</hi>
+                           </cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Two Guns, and puts a Jack abroad from the Main-cross-trees downwards on the Back-stay</cell>
+                           <cell>
+                              <hi>14</hi>
+                           </cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>SIGNALS with Three, Four, or more Guns, From the ADMIRAL.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell role="label">Instr.</cell>
+                           <cell role="label">Pag.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>FOur Guns</hi>
+                           </cell>
+                           <cell>3</cell>
+                           <cell>13</cell>
+                        </row>
+                        <row>
+                           <cell rows="2">
+                              <hi>Six Guns</hi>
+                           </cell>
+                           <cell>4</cell>
+                           <cell>14</cell>
+                        </row>
+                        <row>
+                           <cell>10</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell rows="2">
+                              <hi>Eight Guns</hi>
+                           </cell>
+                           <cell>4</cell>
+                           <cell>14</cell>
+                        </row>
+                        <row>
+                           <cell>10</cell>
+                           <cell>11</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Ten Guns</hi>
+                           </cell>
+                           <cell>5</cell>
+                           <cell>14</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From other Ships.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell role="label">Instr.</cell>
+                           <cell role="label">Pag.</cell>
+                        </row>
+                        <row>
+                           <cell>FIres Guns, and hangs out a great number of Lights</cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Fires Guns, and spreads an English Ensign from his Main or Fore-Top-Mast downwards on the Shrowds, lowering his Main or Fore-top-sail</cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Fires Guns, and puts a Jack abroad from the Main-top-mast-cross-trees downwards on the Back-stay</cell>
+                           <cell>
+                              <hi>14</hi>
+                           </cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Fires Guns, makes false Fires, puts a Light in the Main top, and Three on the Poop</cell>
+                           <cell>
+                              <hi>6</hi>
+                           </cell>
+                           <cell>
+                              <hi>9</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Fires Guns, and hangs out two Lights of equal height</cell>
+                           <cell>
+                              <hi>7</hi>
+                           </cell>
+                           <cell>
+                              <hi>9</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Fires four Guns, or continues firing Gun after Gun</cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                           <cell>
+                              <hi>14</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>SIGNALS with LIGHTS, From the ADMIRAL.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell role="label">Instr.</cell>
+                           <cell role="label">Pag.</cell>
+                        </row>
+                        <row>
+                           <cell>PƲts a Light in each Top-mast-head, and fires a Gun</cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                           <cell>
+                              <hi>3</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Hangs a Light in the Main Top-mast-shrowds, and fires a Gun.</cell>
+                           <cell>
+                              <hi>7</hi>
+                           </cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Two Lights on the Ensign-staff, one above the other, above the constant Light on the Poop, and one Gun</cell>
+                           <cell>
+                              <hi>1</hi>
+                           </cell>
+                           <cell>
+                              <hi>7</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Four Lights, one at each Fore-yard arm, and one at each Main-Yard-arm, and two Guns</cell>
+                           <cell>
+                              <hi>3</hi>
+                           </cell>
+                           <cell>
+                              <hi>3</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Three Lights, one over the other, in the Main-top-mast-shrowds, over the constant Light in the Main top, and two Guns</cell>
+                           <cell>
+                              <hi>6</hi>
+                           </cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Four Lights of equal height, and two Guns</cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                           <cell>
+                              <hi>7</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Three Lights, one over another, in the Main-shrowds, and two Guns</cell>
+                           <cell>
+                              <hi>3</hi>
+                           </cell>
+                           <cell>
+                              <hi>7</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>One Light on the Ensign-staff, and fire a Gun</cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Two Lights, one under the other, in the Mizen-top-mast-shrowds, and one Gun</cell>
+                           <cell>
+                              <hi>9</hi>
+                           </cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Four Lights in the Fore-shrowd, and fire
+<list>
+                                 <item>Six Guns</item>
+                                 <item>Eight Guns</item>
+                              </list>
+                           </cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                           <cell>
+                              <hi>11</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>One Light at the Mizen-peek and fir<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> three G<gap reason="illegible" resp="#murp" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>s</cell>
+                           <cell>
+                              <gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </cell>
+                           <cell>
+                              <gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="24" facs="tcp:208660:14"/>
+                  <head>From other Ships</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell role="label">Instr.</cell>
+                           <cell role="label">Pag.</cell>
+                        </row>
+                        <row>
+                           <cell>THree Lights in the Mizen-shrowds, and one Gun</cell>
+                           <cell>
+                              <hi>4</hi>
+                           </cell>
+                           <cell>
+                              <hi>9</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Shews as many Lights as he can, and fires a Gun</cell>
+                           <cell>
+                              <hi>9</hi>
+                           </cell>
+                           <cell>
+                              <hi>9</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Hangs out a great number of Lights, and continues firing Guns</cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>A Light in the Main-top, three in the Poop, makes false Fires, and fires Guns</cell>
+                           <cell>
+                              <hi>6</hi>
+                           </cell>
+                           <cell>
+                              <hi>9</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Hangs out Two Lights of equal height, and Fires Guns</cell>
+                           <cell>
+                              <hi>7</hi>
+                           </cell>
+                           <cell>
+                              <hi>9</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>SIGNALS with Flags, Ensigns, Standards and Jacks, From the ADMIRAL.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell cols="2"> </cell>
+                           <cell role="label">Instr.</cell>
+                           <cell role="label">Pag.</cell>
+                        </row>
+                        <row>
+                           <cell cols="2">HOists a Red Flag in the Mizen-shrowds</cell>
+                           <cell>
+                              <hi>4</hi>
+                           </cell>
+                           <cell>
+                              <hi>15</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A White Flag in the same place</cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                           <cell>
+                              <hi>16</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">Puts an English Ensign in the Mizen-top-mast-shrowds</cell>
+                           <cell>
+                              <hi>17</hi>
+                           </cell>
+                           <cell>
+                              <hi>17</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">Spreads an English Ensign at the Main-top-sail-yard-arm</cell>
+                           <cell>
+                              <hi>18</hi>
+                           </cell>
+                           <cell>
+                              <hi>17</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">An Ensign striped Red, White and Blue, hoisted on the Ensign-staff, and one Gun</cell>
+                           <cell>
+                              <hi>1</hi>
+                           </cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A Red Flag in the Mizen-shrowds, with a Signal for a parti<g ref="char:EOLhyphen"/>cular Captain, and one Gun</cell>
+                           <cell>
+                              <hi>4</hi>
+                           </cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A Blue Flag in the same place, with a Signal for a particular Captain, and one Gun</cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                           <cell>
+                              <hi>4</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A White Flag on the Flag-staff at the Fore-top-mast-head, and one Gun</cell>
+                           <cell>
+                              <hi>6</hi>
+                           </cell>
+                           <cell>
+                              <hi>4</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">An Ʋnion Flag on the Flag-staff at the Mizen-top-mast-head, and one Gun</cell>
+                           <cell>
+                              <hi>1</hi>
+                           </cell>
+                           <cell>
+                              <hi>6</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">The same on the Fore-top-mast-head, and one Gun</cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                           <cell>
+                              <hi>6</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A Pendant on the Ensign-staff and one Gun</cell>
+                           <cell>
+                              <hi>3</hi>
+                           </cell>
+                           <cell>
+                              <hi>6</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">Hoists his Ensign and fires a Gun</cell>
+                           <cell>
+                              <hi>4</hi>
+                           </cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">Hawls down his Jack, and fires a Gun</cell>
+                           <cell>
+                              <hi>4</hi>
+                           </cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A Red Flag on the Flag-staff at the Mizen top-mast-head, and one Gun</cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A Blue Flag in the same place, and one Gun</cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A Red Flag in the Mizen-shrowds</cell>
+                           <cell>
+                              <hi>7</hi>
+                           </cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A Blue Flag in the same place</cell>
+                           <cell>
+                              <hi>7</hi>
+                           </cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A White Flag on the Flag-staff at the Fore-top-mast-head, and one Gun</cell>
+                           <cell>
+                              <hi>7</hi>
+                           </cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A Flag striped Red and White in the same place, and one Gun</cell>
+                           <cell>
+                              <hi>11</hi>
+                           </cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">The like Flag on the Flag-staff at the Mizen-top-mast-head, and one Gun</cell>
+                           <cell>
+                              <hi>12</hi>
+                           </cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">An Ʋnion Flag in the Mizen-top-mast-shrowds, and one Gun</cell>
+                           <cell>
+                              <hi>1</hi>
+                           </cell>
+                           <cell>
+                              <hi>15</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">An Ensign in the same place</cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                           <cell>
+                              <hi>15</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A Standard on the Flag-staff at the Mizen-top-mast-head, and one Gun</cell>
+                           <cell>
+                              <hi>3</hi>
+                           </cell>
+                           <cell>
+                              <hi>15</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A Blue Flag in the Mizen-shrowds, and one Gun</cell>
+                           <cell>
+                              <hi>6</hi>
+                           </cell>
+                           <cell>
+                              <hi>16</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A Standard on the Ensign-staff, and one Gun</cell>
+                           <cell>
+                              <hi>7</hi>
+                           </cell>
+                           <cell>
+                              <hi>16</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A Pendant on the Mizen-peek, and one Gun</cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                           <cell>
+                              <hi>16</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">The same Signal, and a Weft with his Ensign</cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                           <cell>
+                              <hi>16</hi>
+                           </cell>
+                        </row>
+                        <pb n="25" facs="tcp:208660:14"/>
+                        <row>
+                           <cell cols="2">A Flag striped Yellow and White at the Mizen-Peek, and one Gun</cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                           <cell>
+                              <hi>16</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A Pendant on the Flag-staff at the Fore-top-mast-head, and one Gun</cell>
+                           <cell>
+                              <hi>12</hi>
+                           </cell>
+                           <cell>
+                              <hi>17</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">The like Signal on the Mizen-top-mast-head,</cell>
+                           <cell>
+                              <hi>13</hi>
+                           </cell>
+                           <cell>
+                              <hi>17</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A Pendant on the Flag-staff at the Fore-top-mast-head, and another at the Mizen-top-mast-head, and one Gun</cell>
+                           <cell>
+                              <hi>4</hi>
+                           </cell>
+                           <cell>
+                              <hi>17</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A Yellow Flag under that at the Main-top-mast-head, and fire a Gun</cell>
+                           <cell>
+                              <hi>17</hi>
+                           </cell>
+                           <cell>
+                              <hi>31</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A Flag striped Red and White on the Flag-staff at the Main-top-mast-head, with a Pendant under it, and fire a Gun</cell>
+                           <cell rows="6">
+                              <hi>30</hi>
+                           </cell>
+                           <cell rows="6">
+                              <hi>33</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A Flag striped Red, White and Blue, at the said place, with a Pendant and Gun</cell>
+                        </row>
+                        <row>
+                           <cell cols="2">A Genoeze Ensign at the said place, with a Pendant and Gun</cell>
+                        </row>
+                        <row>
+                           <cell>A Flag striped Red and White</cell>
+                           <cell rows="3">At the Flag-staff at the Main, Fore, or Mizen-top-mast<g ref="char:EOLunhyphen"/>head, and a Gun, without a Pendant</cell>
+                        </row>
+                        <row>
+                           <cell>A Flag striped Red, White, and Blue</cell>
+                        </row>
+                        <row>
+                           <cell>A Genoeze Ensign</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From other Ships.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell role="label">Instr.</cell>
+                           <cell role="label">Pag.</cell>
+                        </row>
+                        <row>
+                           <cell>PƲts abroad his Ensign, and keeps it till the Admiral's is out, striking it as many times as he sees Ships</cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Hoists his Jack and Ensign, and keeps it abroad till the Admi<g ref="char:EOLhyphen"/>ral answers by hoisting his</cell>
+                           <cell>
+                              <hi>13</hi>
+                           </cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Spreads an Ensign on the Main-top-mast Back-stay, from the Head of the Mast downwards</cell>
+                           <cell>
+                              <hi>16</hi>
+                           </cell>
+                           <cell>
+                              <hi>17</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Puts a Jack abroad from the Main-top-mast Cross-trees down<g ref="char:EOLhyphen"/>wards on the Back-stay, and fires two Guns</cell>
+                           <cell>
+                              <hi>14</hi>
+                           </cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>The same Signal, and continues firing Guns</cell>
+                           <cell>
+                              <hi>14</hi>
+                           </cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Spreads an English Ensign from his Main or Fore-top-mast down<g ref="char:EOLhyphen"/>wards on the Shrowds, Lowering his Main or For-top-sail and fires Guns</cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>SIGNALS with Sails, or on the Top-mast-Shrowds, From the ADMIRAL.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell role="label">Instr.</cell>
+                           <cell role="label">Pag.</cell>
+                        </row>
+                        <row>
+                           <cell>HOists his Mizen-top-sail, with the Clew-lines hawled up, and fires a Gun</cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Looses his Main-top-sail, and fires a Gun</cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                           <cell>
+                              <hi>4</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Looses his Fore-top-sail, and fires a Gun</cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                           <cell>
+                              <hi>4</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Hangs a Light in the Main-top-mast-shrowds, and fires a Gun</cell>
+                           <cell>
+                              <hi>7</hi>
+                           </cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Looses both his Top-sails, and fires two Guns</cell>
+                           <cell>
+                              <hi>3</hi>
+                           </cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Hangs three Lights in the Main-top-mast-shrowds, one over another above the constant Light in the Main-top, and fires two Guns</cell>
+                           <cell>
+                              <hi>6</hi>
+                           </cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From other Ships.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell role="label">Instr.</cell>
+                           <cell role="label">Pag.</cell>
+                        </row>
+                        <row>
+                           <cell>BRales up his Low-sails, and continues Hoisting and Lowering his Top-sails, and making a Weft with his Top gallant sails</cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Lowers his Main or Fore-top-sail, spreading an English Ensign from his Main or Fore-top-mast downwards on the Shrowds, and fires Guns</cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div type="instructions">
+            <pb n="26" facs="tcp:208660:15"/>
+            <head>INSTRUCTIONS To be observed by all <hi>Masters, Pilots, Ketches, Hoys</hi> and <hi>Smacks,</hi> ATTENDING The FLEET.</head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <label>INSTR. I.</label> IN case of Sailing at any time, (save only in time of Fight) you are Night and Day to keep your respective Stations; and if you meet with any less Depth than Seven Fathom in the Day-time, you are no fire one Gun, and hawl up your Main-sail; and if you meet with less than Seven Fathom in the Night, to fire one Gun, and make false Fires till you are answer'd from the Ad<g ref="char:EOLhyphen"/>miral with false Fires again.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <label>II.</label> You are to observe Signals one from another in your several Stations, and to make the same Signals to the Fleet, if at any time in Sailing you meet with Shoal-water.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <label>III.</label> In Sailing (Night and Day) you are to keep your Lead conti<g ref="char:EOLhyphen"/>nually going, and be careful of your Tides and Reckonings, that so you may be able to give an account whereabouts the Fleet is, at any time; but your Care is more particularly and immediately required in keeping as exact an Account in time of Fight, as you are able.</p>
+            <pb n="27" facs="tcp:208660:15"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+               <label>IV.</label> In case His Majesty's Fleet shall engage the Enemy among the Sands, or where they have reason to apprehend Danger, then such of you as are appointed by the Admiral for that Service, shall lie away a-head of the Fleet, and keep your Lead going, and if you meet with less than <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Fathom Water, you are to Lower your Main-top-sail (if abroad) and to spread your En<g ref="char:EOLhyphen"/>sign from your Main-top-mast-head downwards, and to stand from the Danger.</p>
+            <p>And those of you who are not appointed by the Admiralas aforesaid, are to use your utmost endeavour to know the Fire<g ref="char:EOLhyphen"/>ships belonging to the Enemies; and accordingly observing their Motion, to do your utmost to cut off their Boats, (if possible,) or if Opportunity serve, to lay them on Board, Seize and Destroy them; and to this purpose you are to keep to Windward of the Squadron in time of Service: But in case you cannot prevent the Fire-ships from going on Board the Admiral, or any other, by clapping between them, [which by all possible means you are to en<g ref="char:EOLhyphen"/>deavour,] then, and in all such Cases and Exegents, you are to shew your selves Men; and to Steer on Board them with your Boats, and with Grap-Nails, or other Means, to clear His Majesty's Ship from them, and to destroy them: Which Service, if Honourably performed, shall be Rewarded according to its Merit; but if neg<g ref="char:EOLhyphen"/>lected, shall be strictly Examined, and severely Punished.</p>
+         </div>
+         <div type="text">
+            <div type="instructions">
+               <pb n="28" facs="tcp:208660:16"/>
+               <head>Fighting Instructions.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <label>INSTR. I.</label> WHen the Admiral would have the Fleet draw into a Line of Battel, one Ship A-head of another, according to the Method given to each Captain, he will hoist an Union Flag at the Mizen-Peek, and fire a Gun; and every Flag-ship in the Fleet is to make the same Signal.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <label>II.</label> When the Admiral would have the Fleet draw into a Line of Battel one Ship A-breast of another, (according to the Method given to each Captain,) he will hoist an Union Flag and a Pen<g ref="char:EOLhyphen"/>dant at the Mizen-Peek, and fire a Gun; and every Flag-ship in the Fleet is to do the same.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <label>III.</label> When the Admiral would have the Admiral of the White, and his whole Squadron to Tack, and endeavour to gain the Wind of the Enemy, he will spread a White Flag under the Flag at the Main-top-mast-head, and fire a Gun; which is to be answer'd by the Flag-ships in the Fleet; and when he would have the Admi<g ref="char:EOLhyphen"/>ral of the Blue to do the same with his Squadron, he will spread a Blue Flag on that place.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                  <label>IV.</label> When the Admiral would have the Vice-Admiral of the Red, and his Division, Tack, and endeavour to gain the Wind of the Enemy, he will spread a Red Flag from the Cap at the Fore-top-mast-head downward on the Back-stay: If he would have the Vice-Admiral of the White do the same, a White Flag: If the Vice-Admiral of the Blue, a Blue Flag at the same place.</p>
+               <pb n="29" facs="tcp:208660:16"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                  <label>V.</label> When the Admiral would have the Rear-Admiral of the Red, and his Division, Tack, and endeavour to gain the Wind of the Enemy, he will hoist a Red Flag at the Flag-staff at the Mizen-top-mast-head, and fire a Gun: If the Rear-Admiral of the White, a White Flag: If the Rear-Admiral of the Blue, a Blue Flag at the same place, and under the Flag a Pendant of the same Colour.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+                  <label>VI.</label> If the Admiral be to Leeward of the Fleet, or any part of the Fleet, and he would have them to bear down into his Wake, or Grain, he will hoist a Blue Flag at the Mizen Peek.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+                  <label>VII.</label> If the Admiral be to Leeward of the Enemy, and his Fleet, or any part of them, to Leeward of him, that he may bring those Ships into a Line, he will bear up with a Blue Flag at the Mizen-peek, under the Union Flag, which is the Signal for the Line of Battel; and then those Ships to Leeward are to use their utmost endeavour to get into his Wake, or Grain, according to their Stations in the Line of Battel.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/>
+                  <label>VIII.</label> If the Fleet be Sailing before the Wind, and the Admiral would have the Vice-Admiral, and the Ships of the Starboard Quarter to clap by the Wind, and come to the Starboard-Tack, then he will hoist upon the Mizen-top-mast-head a Red Flag: And in case he would have the Rear-Admiral, and the Ships of the Larboard Quarter to come to their Larboard-Tack, then he will hoist up a Blue Flag at the same place.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/>
+                  <label>IX.</label> When the Admiral would have the Van of the Fleet to Tack first, he will put abroad the Union Flag at the Flag-staff on the Fore-top-mast-head, and fire a Gun, if the Red Flag be not abroad; but if the Red Flag be abroad, then the Fore-top-sails shall be lower'd a little, and the Union Flag shall be spread from the Cap of the Fore-top-mast downwards; and every Flag-ship in the Fleet is to do the same.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/>
+                  <label>X.</label> When the Admiral would have the Rear-Admiral of the Fleet Tack first, he will hoist the Union-Flag on the Flag-staff at the Mizen-top-mast-head, and fire a Gun; which is to be answered by every Flag-ship in the Fleet.</p>
+               <pb n="30" facs="tcp:208660:17"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/>
+                  <label>XI.</label> When the Admiral would have all the Flag-ships in the Fleet come into his Wake, or Grain, he will hoist a Red Flag at the Mizen-peek, and fire a Gun; and the Flag-ships in the Fleet are to make the same Signal.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="12"/>
+                  <label>XII.</label> When the Admiral would have the Admiral of the White, and his Squadron, make more Sail, though himself shorten Sail, he will hoist a White Flag on the Ensign-staff: If the Admiral of the Blue, or he that commands in the Third Post, a Blue Flag at the same place; and every Flag-ship in the Fleet is to make the same Signal.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="13"/>
+                  <label>XIII.</label> As soon as the Admiral shall hoist a Red Flag on the Flag-staff at the Fore-top-mast-head, every Ship in the Fleet is to use their utmost endeavour to Engage the Enemy, in the Order the Ad<g ref="char:EOLhyphen"/>miral has prescribed unto them.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="14"/>
+                  <label>XIV.</label> When the Admiral hoisteth a White Flag at the Mizen-peek, then all the small Frigats of his Squardron that are not in the Line of Battel, are to come under his Stern.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="15"/>
+                  <label>XV.</label> If the Fleet is Sailing by a Wind in the Line of Battel, and the Admiral would have them Brace their Head-sails to the Mast, he will hoist a Yellow Flag on the Flag-staff at the Mizen-top-mast-head, and fire a Gun; which the Flag-ships in the Fleet are to an<g ref="char:EOLhyphen"/>swer: Then the Ships in the Rear are to Brace to first.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="16"/>
+                  <label>XVI.</label> The Fleet lying in a Line of Battel, with their Head-sails to the Mast, and if the Admiral would have them fill and stand on, he will hoist a Yellow Flag on the Flag-staff at the Fore-top-mast-head, and fire a Gun; which the Flag-ships in the Fleet are to an<g ref="char:EOLhyphen"/>swer; then the Ships in the Van are to fill first, and to stand on; if it happen when this Signal is to be made, that the Red Flag is abroad on the Flag-staff at the Fore-top-mast-head, the Admiral will spread the Yellow Flag under the Red.</p>
+               <pb n="31" facs="tcp:208660:17"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="17"/>
+                  <label>XVII.</label> If the Admiral see the Enemies Fleet standing towards him, and he has the Wind of them, the Van of the Fleet is to make Sail till they come the length of the Enemies Rear and our Rear a-breast of the Enemies Van, then he that is in the Rear of our Fleet is to Tack first, and every Ship one after another, as fast as they can, throughout the Line, that they may engage upon the same Tacks with their Enemy; but in case the Enemies Fleet should Tack in the Rear, our Fleet is to do the same with an equal Number of Ships; and whilst they are in Fight with the Enemy, to keep within half a Cable's length one of another; or if the Weather be bad, according to the Discretion of the Commander. When the Admiral would have the Ship that leads the Van of the Fleet, (or the Headmost Ship in the Fleet,) when they are in a Line of Battel, Hoist, Lower, Set or Hawl up, any of his Sails, the Admiral will spread a Yellow Flag under that at the Main-top-mast-head and fire a Gun; which the Flag-ships that have Flags at the Main-top-mast-head are to answer; and those Flag-ships that have not, are to hoist the Yellow Flag on the Flag-staff at the Main-top-mast-head, and fire a Gun: Then the Admi<g ref="char:EOLhyphen"/>ral will Hoist, Lower, Set or Hawl up, the Sail he would have the Ship that leads the Van do.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="18"/>
+                  <label>XVIII.</label> If the Admiral and his Fleet have the Wind of the Enemy, and they have stretched themselves in a Line of Battel, the Van of the Admiral's Fleet is to steer with the Van of the Enemies, and there to Engage them.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="19"/>
+                  <label>XIX.</label> Every Commander is to take Care, that his Guns are not fired till he is sure he can reach the Enemy upon a Point-blank; and by no means to suffer his Guns to be fired over any of our own Ships.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="20"/>
+                  <label>XX.</label> None of the Ships in the Fleet shall pursue any small Num<g ref="char:EOLhyphen"/>ber of the Enemies Ships, till the Main Body be Disabled, or Run.</p>
+               <pb n="32" facs="tcp:208660:18"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="21"/>
+                  <label>XXI.</label> If any of the Ships in the Fleet are in Distress, and make the Signal, which is a Weft with the Jack or Ensign, the next Ship to them is strictly required to relieve them.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="22"/>
+                  <label>XXII.</label> If the Admiral or any Flag-ship should be in distress, and make the usual Signal, the Ships in the Fleet are to endeavour to get up as close into a Line between him and the Enemy as they can, ha<g ref="char:EOLhyphen"/>ving always an Eye to defend him, if the Enemy should come to annoy him in that Condition.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="23"/>
+                  <label>XXIII.</label> In case any Ship in the Fleet should be forced to go out of the Line to repair Damages she has received in Battel, the next Ships are to close up the Line.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="24"/>
+                  <label>XXIV.</label> If any Flag-ship be disabled, the Flag may go on Board any Ship of his own Squadron or Division.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="25"/>
+                  <label>XXV.</label> If the Enemy be put to the run, and the Admiral thinks it convenient the whole Fleet shall follow them, he will make all the sail he can himself after the Enemy, and fire two Guns out of his Fore-Chase; then every Ship in the Fleet is to use his best endea<g ref="char:EOLhyphen"/>vour to come up with the Enemy, and lay them on Board.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="26"/>
+                  <label>XXVI.</label> If the Admiral would have any particular Flag-ship, and his Squadron or Divsion, give Chase to the Enemy, he will make the same Signal that is appointed for that Flag-ship's Tacking with his Squadron or Division, and Weathering the Enemy.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="27"/>
+                  <label>XXVII.</label> When the Admiral would have them give over Chase, he will hoist a White Flag at the Fore-top-mast-head, and fire a Gun.</p>
+               <pb n="33" facs="tcp:208660:18"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="28"/>
+                  <label>XXVIII.</label> In case any Ship in the Line of Battel should be Disabled in her Masts, Rigging, or Hull, the Ship that leads A-head of her, shall take her in A-tow, and the Division she is in shall make good the Line with her; but the Commander of the Ship so Disabled is not, upon any Pretence whatever, to leave his Station, till he has ac<g ref="char:EOLhyphen"/>quainted his Flag, or the next Flag-Officer to him, with the Con<g ref="char:EOLhyphen"/>dition of his Ship, and received his Direction therein: And in case any Commander shall be wanting in doing his Duty, his Flag, or the next Flag-Officer to him, is immediately to send for the said Commander from his Ship, and appoint another in his room.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="29"/>
+                  <label>XXIX.</label> If the Admiral would have any Flag in his Division or Squadron Cut, or Slip in the Day-time, he will make the same Signals that are appointed for those Flag-ships, and their Division or Squadron, to Tack and Weather the Enemy, as is expressed in the Third, Fourth, Fifth and Sixth Articles before-going.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="30"/>
+                  <label>XXX.</label> When the Admiral would have the Red Squadron draw into a Line of Battel A-breast of one another, he will put abroad a Flag striped Red and White on the Flag-staff at the Main Top-Mast-Head, with a Pendant under it, and fire a Gun. If he would have the White Squadron, or those that have the Second Post in the Fleet to do the like, the Signal shall be a Flag striped Red, White, and Blue, with a Pendant under it at the aforesaid place. And if he would have the Blue Squadron do the like, he will put on the said Place a <hi>Genoeze</hi> Ensign, together with a Pendant: But when he would have either of the said Squadrons to draw into a Line of Battel, A-head of one another, he will make the aforesaid Signals without a Pendant; which Signals are to be answered by the Flag-ships only of the said Squadrons, and to be kept out till the Admiral take in his. And if the Admiral would have any Vice-Admiral of the Fleet, and his Division, draw into a Line of Battel, as aforesaid, he will make the same Signals at the Fore-top-mast-head that he makes for that Squadron at the Main-top-mast-head: And for any Rear-Admiral in the Fleet, and his Division, the same Signals at the Mizen-top-mast-head, which Signals are to be answered by the Vice or Rear-Admirals.</p>
+            </div>
+            <div type="table_of_contents">
+               <pb n="34" facs="tcp:208660:19"/>
+               <head>THE CONTENTS OF THE Fighting Instructions.</head>
+               <list>
+                  <item>THE Signal for the Fleet to draw into a Line of Battel, one Ship a-head of another Instr. <hi>1</hi>
+                  </item>
+                  <item>
+                     <hi>Ditto,</hi> A-brest of another Instr. <hi>2</hi>
+                  </item>
+                  <item>For the Admiral of the White to Tack, and endeavour to gain the Wind of the Enemy Instr. <hi>3</hi>
+                  </item>
+                  <item>For the Admiral of the Blue to do the same Instr. <hi>3</hi>
+                  </item>
+                  <item>For the Vice-Admiral of the Red, and his Division, to do the same Instr. <hi>4</hi>
+                  </item>
+                  <item>For the Vice-Admiral of the White to do the same Instr. <hi>4</hi>
+                  </item>
+                  <item>For the Vice-Admiral of the Blue to do the same Instr. <hi>4</hi>
+                  </item>
+                  <item>For the Rear-Admiral of the Red, and his Division, to do the same Instr. <hi>5</hi>
+                  </item>
+                  <item>For the Rear-Admiral of the White to do the same Instr. <hi>5</hi>
+                  </item>
+                  <item>For the Rear-Admiral of the Blue to do the same Instr. <hi>5</hi>
+                  </item>
+                  <item>For the Fleet's bearing down to the Admiral's Wake, or Grain, when he is to Leeward of them Instr. <hi>6</hi>
+                  </item>
+                  <item>For the Ships to Leeward of the Admiral to get into his Wake or Grain Instr. <hi>7</hi>
+                  </item>
+                  <item>For the Vice-Admiral, and the Ships of the Star-board Qurter, to clap by the Wind, and come to the Star-board Tack Instr. <hi>8</hi>
+                  </item>
+                  <item>For the Rear-Admiral, and the Ships of the Lar-board Quarter, to come to the Lar-board Tack Instr. <hi>8</hi>
+                  </item>
+                  <item>For the Van of the Fleet to Tak first Instr. <hi>9</hi>
+                  </item>
+                  <item>For the Rear of the Fleet to Tack first Instr. <hi>10</hi>
+                  </item>
+                  <item>For the Flag-ships to come into the Admiral's Wake or Grain Instr. <hi>11</hi>
+                  </item>
+                  <item>For the Admiral of the White or Blue to make more Sail, tho' the Admiral himself shorten Sail Instr. <hi>12</hi>
+                  </item>
+                  <item>The Signal for Battel Instr. <hi>13</hi>
+                  </item>
+                  <pb n="35" facs="tcp:208660:19"/>
+                  <item>For speaking with the Frigats that are not in the Line of Battel Instr. <hi>14</hi>
+                  </item>
+                  <item>For the Rear of the Fleet to brace their Head-sails to the Mast Instr. <hi>15</hi>
+                  </item>
+                  <item>For the Van of the Fleet to fill their Head-sails Instr. <hi>16</hi>
+                  </item>
+                  <item>Instructions to be observed in Engaging the Enemy, and for the Ship that leads the Van of the Fleet, when in a Line, to Hoist, Lower, Set, or Hawl up any of his Sails Instr. <hi>17</hi>
+                  </item>
+                  <item>How to Engage the Enemy when our Fleet has the Wind of them Instr. <hi>18</hi>
+                  </item>
+                  <item>Not to fire till within Point-blank Shot Instr. <hi>19</hi>
+                  </item>
+                  <item>Not to pursue a small Number of the Enemy till the Main Body Run, or are Disabled Instr. <hi>20</hi>
+                  </item>
+                  <item>A Ship in Distress Instr. <hi>21</hi>
+                  </item>
+                  <item>When the Admiral, or any Flag-ship is in Distress Instr. <hi>22</hi>
+                  </item>
+                  <item>When a Ship is forced to go out of the Line Instr. <hi>23</hi>
+                  </item>
+                  <item>When a Flag-ship is Disabled Instr. <hi>24</hi>
+                  </item>
+                  <item>For the whole Fleet to Chase Instr. <hi>25</hi>
+                  </item>
+                  <item>For any particular Flag-ship, with his Squadron or Division to Chase Instr. <hi>26</hi>
+                  </item>
+                  <item>For giving over Chase Instr. <hi>27</hi>
+                  </item>
+                  <item>For making up the Line when a Ship is disabled Instr. <hi>28</hi>
+                  </item>
+                  <item>When the Admiral would have any Flag cut or slip in the Day Instr. <hi>29</hi>
+                  </item>
+                  <item>When the Admiral would have the Red, White, or Blue Squadron, draw into a Line of Battel a-breast or a-head of one another, or any Vice or Rear-Admiral to do the like Instr. <hi>30</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="index">
+               <pb n="36" facs="tcp:208660:20"/>
+               <head>AN INDEX OF THE SIGNALS Contained in the Instructions for Fighting.</head>
+               <div type="section">
+                  <head>From the ADMIRAL.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell role="label">Instr.</cell>
+                           <cell role="label">Pag.</cell>
+                        </row>
+                        <row>
+                           <cell>HOists an Ʋnion Flag on the Mizen-Peek, and fires a Gun</cell>
+                           <cell>
+                              <hi>1</hi>
+                           </cell>
+                           <cell>
+                              <hi>28</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>An Ʋnion Flag, and a Pendant on the Mizen-Peek, and fires a Gun</cell>
+                           <cell>
+                              <hi>2</hi>
+                           </cell>
+                           <cell>
+                              <hi>28</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>A White or a Blue Flag spread under the Flag at the Main-top-mast-head, and a Gun fired</cell>
+                           <cell>
+                              <hi>3</hi>
+                           </cell>
+                           <cell>
+                              <hi>28</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>A Red, White, or Blue Flag, spread from the Cap at the Fore-top-mast-head downwards on the Back-stay</cell>
+                           <cell>
+                              <hi>4</hi>
+                           </cell>
+                           <cell>
+                              <hi>28</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>A Red, White, or a Blue Flag, on the Flag-staff at the Mizen-top-mast-head, and a Gun fired</cell>
+                           <cell>
+                              <hi>5</hi>
+                           </cell>
+                           <cell>
+                              <hi>29</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>A Blue Flag at the Mizen-Peek</cell>
+                           <cell>
+                              <hi>6</hi>
+                           </cell>
+                           <cell>
+                              <hi>29</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Bears up with a Blue Flag under the Ʋnion Flag at the Mizen-Peek</cell>
+                           <cell>
+                              <hi>7</hi>
+                           </cell>
+                           <cell>
+                              <hi>29</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>A Red or Blue Flag on the Mizen-top-mast-head</cell>
+                           <cell>
+                              <hi>8</hi>
+                           </cell>
+                           <cell>
+                              <hi>29</hi>
+                           </cell>
+                        </row>
+                        <pb n="37" facs="tcp:208660:20"/>
+                        <row>
+                           <cell>An Ʋnion Flag at the Flag-staff at the Fore-top-mast-head, or the Fore-top-sail lower'd a little, and the Ʋnion Flag spread from the Cap of the Fore-top-mast downwards, and a Gun fired</cell>
+                           <cell>
+                              <hi>9</hi>
+                           </cell>
+                           <cell>
+                              <hi>29</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>The Ʋnion Flag hoisted on the Flag-staff at the Mizen-top-mast-head, and a Gun fired</cell>
+                           <cell>
+                              <hi>10</hi>
+                           </cell>
+                           <cell>
+                              <hi>29</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>A Red Flag hoisted on the Mizen Peek, and a Gun fired</cell>
+                           <cell>
+                              <hi>11</hi>
+                           </cell>
+                           <cell>
+                              <hi>30</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>A White or Blue Flag hoisted on the Ensign-staff</cell>
+                           <cell>
+                              <hi>12</hi>
+                           </cell>
+                           <cell>
+                              <hi>30</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>A Red Flag on the Flag-staff at the Fore-top-mast-head</cell>
+                           <cell>
+                              <hi>13</hi>
+                           </cell>
+                           <cell>
+                              <hi>30</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>A White Flag at the Mizen-Peek</cell>
+                           <cell>
+                              <hi>14</hi>
+                           </cell>
+                           <cell>
+                              <hi>30</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>A Yellow Flag hoisted at the Mizen-top mast-head, and a Gun fired</cell>
+                           <cell>
+                              <hi>15</hi>
+                           </cell>
+                           <cell>
+                              <hi>30</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>A Yellow Flag hoisted on a Flag-staff at the Fore-top-mast-head, or (if the Red Flag be abroad) spread under the Red Flag, and a Gun fired</cell>
+                           <cell>
+                              <hi>16</hi>
+                           </cell>
+                           <cell>
+                              <hi>30</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>A Yellow Flag under that at the Main-top-mast-head, and a Gun fired</cell>
+                           <cell>
+                              <hi>17</hi>
+                           </cell>
+                           <cell>
+                              <hi>31</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Admiral fires two Guns out of his Fore-Chase, and makes all the Sail he can</cell>
+                           <cell>
+                              <hi>25</hi>
+                           </cell>
+                           <cell>
+                              <hi>32</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>A White Flag at the Fore-top-mast-head, and a Gun fired</cell>
+                           <cell>
+                              <hi>27</hi>
+                           </cell>
+                           <cell>
+                              <hi>32</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>A Flag striped Red and White on the Flag-staff at the Main-top-mast-head, with a Pendant under it, and a Gun</cell>
+                           <cell rows="5">
+                              <hi>30</hi>
+                           </cell>
+                           <cell rows="5">
+                              <hi>33</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>A Flag striped Red, White, and Blue, with a Pendant under it, at the said place, and a Gun</cell>
+                        </row>
+                        <row>
+                           <cell>A Genouese Ensign at the said place, with a Pendant and Gun</cell>
+                        </row>
+                        <row>
+                           <cell>The same Signals without a Pendant</cell>
+                        </row>
+                        <row>
+                           <cell>The same Signals and a Gun, both with and without a Pendant, at the Fore or Mizen-top-mast-heads</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>From other Ships.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>A Weft with their Jack or Ensign</cell>
+                           <cell>
+                              <hi>21</hi>
+                           </cell>
+                           <cell>
+                              <hi>32</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="38" facs="tcp:208660:21"/>
+            <head>ENCOURAGEMENT FOR THE Captains and Companies OF <hi>Fire-ships, Small Frigats, and Ketches.</hi>
+            </head>
+            <p>ALthough it is the Duty of all Persons employed in His Majesty's Fleet even to the utmost hazard of their Lives, to endeavour as well the destroying of His Majesty's Enemies, as the succouring of His Majesty's Subjects, and in most especial manner to Preserve and Defend His Majesty's Ships of War; (the neglect whereof shall at all times be strictly enquired after, and severely Punish'd;) Nevertheless, that no inducement may be wanting, which may oblige all Persons serving in His Maje<g ref="char:EOLhyphen"/>sty's Fleet, Valiantly and Honourably to acquit themselves in their several Stations. We have therefore thought fit to Publish and Declare, and do hereby Promise on His Majesty's behalf.</p>
+            <p n="1">1. That if any of His Majesty's Fire-ships perform the Service expected from them in such manner, that any of the Enemies Men of War of Forty Guns, or more, shall be burnt by them, every Person remaining in the Fire-ship till the Service be performed, shall receive on board the Admiral, immediately after the Service done, Ten Pounds, as a Reward of that Service, over and above his Pay due to him; and in case any of them shall be kill'd in that Service, it shall be paid to his Executors or next Relations; and the Captains of such Fire-Ships shall receive 100 <hi>l.</hi> or a Medal of
+<pb n="39" facs="tcp:208660:21"/> Gold, with a Chain of the same Value, as he shall make Choice of, to remain as a Token of Honour to him and his Posterity; and shall receive such other Encouragement by Preferment and Command, or otherwise, as shall be fit to Reward him, and in<g ref="char:EOLhyphen"/>duce others to perform the like Service: And the Inferior Officers shall receive each of them Ten Pounds in Money; and be taken Care of, and placed in other Ships, before any other Person what<g ref="char:EOLhyphen"/>soever.</p>
+            <p n="2">2. In case any of the Enemies Flag-ships be so fired, the Recom<g ref="char:EOLhyphen"/>pence shall be double to each Man performing it; and the Me<g ref="char:EOLhyphen"/>dal to the Commander shall be such, as shall particularly express the Eminency of the Service, and his and the other Officers Pre<g ref="char:EOLhyphen"/>ferment shall be suitable to the Merit thereof.</p>
+            <p n="3">3. If any of His Majesty's Fifth or Sixth Rate Frigats, or any Ketches, Smacks, Hoys, or Boats, in His Majesty's Service, shall Board or Destroy any Fire-ships of the Enemies, and so prevent any of them from going on Board any of the King's Ships, above the Fifth Rate; besides the Preferment that shall be given to the Commanders and Officers of such Ships, performing such Service, answerable to their Merit; the Company of such of the said Ships or Vessels, (or in case they shall be kill'd in that Service, their Ex<g ref="char:EOLhyphen"/>ecutors or nearest Relations) shall receive every Man Forty Shil<g ref="char:EOLhyphen"/>lings, as a Reward: And such Persons, who shall, by the Testimony of the Commanders, appear to be eminently instrumental in such Service, shall receive a further Reward according to his Merit.</p>
+            <p n="4">4. If the Masters of any Ketches, Hoys and Smacks, or other Vessels hired for His Majesty's Service, shall endeavour to per<g ref="char:EOLhyphen"/>form any of the Services aforesaid, and shall by such his Attempt lose his Vessel or Ship, the full value thereof shall be paid by the Treasurer of His Maj<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sty's Navy, upon Certificate of the Service from the Commanders in Chief: And the Commander of the said Ship, and the Men serving in her, shall receive the same Recom<g ref="char:EOLhyphen"/>pence with those who serve in His Majesties Ships or Vessels.</p>
+            <p n="5">5. That if any Boats belonging to the Fleet, shall, in time of Action, prevent any of the Enemies Fire-ships from doing Injury to His Majesty's Ships, the Crews belonging to the said Boats shall receive Encouragement for their said Service, according as it shall be represented by the Captain of the Ship, which they may happen so to preserve.</p>
+         </div>
+         <div type="instructions">
+            <pb n="40" facs="tcp:208660:22"/>
+            <head>INSTRUCTIONS FOR THE FIRE-SHIPS.</head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <label>INSTR. I.</label> WHen the Admiral would speak with the Fireships be<g ref="char:EOLhyphen"/>longing to the Admiral's Division of the Blue Squa<g ref="char:EOLhyphen"/>dron, he will put a Flag striped Yellow and White from Corner to Corner on the Cross Jack-yard.</p>
+            <p>When he would speak with the Fire-ships belonging to the Vice-Admiral's Division of the Blue Squadron, he will put the same Flag on the Mizen-shrowds.</p>
+            <p>When he would speak with the Fire-ships belonging to the Rear-Admiral's Division of the Blue Squadron, he will put the same Flag on the Mizen-top-sail-yard.</p>
+            <p>When he would speak with all the Fire-ships belonging to the Blue Squadron, he will put the same Flag on the Mizen-top-mast-head downwards on the Back-stays.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <label>II.</label> When the Admiral would speak with the Fire-ships belonging to his own Division in the Red Squadron, he will put a Flag striped Yellow and White from Corner to Corner on the Main-yard.</p>
+            <p>When he would speak with the Fire-ships belonging to the Vice-Admiral's Division of the Red Squadron, he will put the same Flag on the Main-shrowds.</p>
+            <pb n="41" facs="tcp:208660:22"/>
+            <p>When he would speak with the Fire-ships belonging to the Rear-Admiral's Division of the Red Squadron, he will put the same Flag on the Main-top-mast-yard.</p>
+            <p>When he would speak with all the Fire-ships belonging to the Red Squadron, he will put the same Flag on the Main-top-mast-head downwards on the Back-stays.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <label>III.</label> When the Admiral would speak with the Fire-ships belonging to the Admiral's Division of the White Squadron, he will put a Flag striped Yellow and White from Corner to Corner on the Fore-yard.</p>
+            <p>When he would speak with the Fire-ships belonging to the Vice-Admiral's Division of the White Squadron, he will put the same Flag on the Fore-shrowds.</p>
+            <p>When he would speak with the Fire-ships belonging to the Rear-Admiral's Division of the White Squadron, he will put the same Flag on the Fore-top-sail-yard.</p>
+            <p>When he would speak with all the Fire-ships belonging to the White Squadron, he would put the same Flag on the Fore-top-mast-head downwards on the Back-stays.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+               <label>IV.</label> When the Admiral would speak with all the Fire-ships of the Fleet, he will strike his Ensign, and put the striped Flag in its place.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
